@@ -1,0 +1,7 @@
+1. Download the datasets and put them in a sensible place.
+2. Write code to find the best score in each of the datasets by looking at all of the entries, so that you know the right answers.
+3. Write code that implements the best employee algorithm we discussed in class. Run it with all of the datasets.
+4. Write some text analysing your results. Does you algorithm find the best employee? Do the different distributions make a difference?
+5. If you have time, you might try and write code to display the values in order using some sort of graphic. This will make it much more obvious why your algorithm gets the results it does, and will come in useful for labs that build on this one.
+
+Save your Word document so that you have a copy. Upload it in Onq to the right place for your lab group. Choose a helpful file name such as beavisbuttheadlab1.doc.
