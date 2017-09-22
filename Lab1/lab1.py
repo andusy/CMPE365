@@ -52,4 +52,5 @@ for i in range(0,len(scores)): # Check each list
 		count = count + 1
 	max_scores.append(mx)
 
+print("Max scores in es and us files respectively (es1,es2,es3,us1,us2,us3,us4)")
 print(max_scores)
