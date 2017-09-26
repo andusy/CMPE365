@@ -1,0 +1,100 @@
+Iteration 100:100 50 25 76 38 19 58 29 88 44 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 
+Iteration 99:99 298 149 448 224 112 56 28 14 7 
+Iteration 98:98 49 148 74 37 
+Iteration 97:97 292 146 73 220 110 55 166 83 250 125 376 188 94 47 142 71 214 107 322 161 484 242 121 364 182 91 274 137 412 206 103 310 155 466 233 700 350 175 526 263 790 395 1186 593 1780 890 445 1336 668 334 167 502 251 754 377 1132 566 283 850 425 1276 638 319 958 479 1438 719 2158 1079 3238 1619 4858 2429 7288 3644 1822 911 2734 1367 4102 2051 6154 3077 9232 4616 2308 1154 577 1732 866 433 1300 650 325 976 488 244 122 61 184 92 46 23 70 35 106 53 160 80 
+Iteration 96:96 48 24 12 6 3 
+Iteration 95:95 286 143 430 215 646 323 970 485 1456 728 
+Iteration 94:
+Iteration 93:93 280 140 
+Iteration 92:
+Iteration 91:
+Iteration 90:90 45 136 68 
+Iteration 89:89 268 134 67 202 101 304 152 
+Iteration 88:
+Iteration 87:87 262 131 394 197 592 296 
+Iteration 86:86 43 130 65 196 
+Iteration 85:85 256 128 64 32 
+Iteration 84:84 42 21 
+Iteration 83:
+Iteration 82:82 41 124 62 31 
+Iteration 81:81 
+Iteration 80:
+Iteration 79:79 238 119 358 179 538 269 808 404 
+Iteration 78:78 39 118 59 178 
+Iteration 77:77 232 116 
+Iteration 76:
+Iteration 75:75 226 113 340 170 
+Iteration 74:
+Iteration 73:
+Iteration 72:72 36 18 9 
+Iteration 71:
+Iteration 70:
+Iteration 69:69 208 104 
+Iteration 68:
+Iteration 67:
+Iteration 66:66 33 
+Iteration 65:
+Iteration 64:
+Iteration 63:63 190 
+Iteration 62:
+Iteration 61:
+Iteration 60:60 30 15 
+Iteration 59:
+Iteration 58:
+Iteration 57:57 172 
+Iteration 56:
+Iteration 55:
+Iteration 54:54 27 
+Iteration 53:
+Iteration 52:
+Iteration 51:51 154 
+Iteration 50:
+Iteration 49:
+Iteration 48:
+Iteration 47:
+Iteration 46:
+Iteration 45:
+Iteration 44:
+Iteration 43:
+Iteration 42:
+Iteration 41:
+Iteration 40:
+Iteration 39:
+Iteration 38:
+Iteration 37:
+Iteration 36:
+Iteration 35:
+Iteration 34:
+Iteration 33:
+Iteration 32:
+Iteration 31:
+Iteration 30:
+Iteration 29:
+Iteration 28:
+Iteration 27:
+Iteration 26:
+Iteration 25:
+Iteration 24:
+Iteration 23:
+Iteration 22:
+Iteration 21:
+Iteration 20:
+Iteration 19:
+Iteration 18:
+Iteration 17:
+Iteration 16:
+Iteration 15:
+Iteration 14:
+Iteration 13:
+Iteration 12:
+Iteration 11:
+Iteration 10:
+Iteration 9:
+Iteration 8:
+Iteration 7:
+Iteration 6:
+Iteration 5:
+Iteration 4:
+Iteration 3:
+Iteration 2:
+Iteration 1:
