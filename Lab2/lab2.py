@@ -4,9 +4,13 @@ def collatz(n):
 	intermediate = [None] * 10000 # Fill the hash table with nulls
 	file = open("intermediate.txt", "w")
 
+	nValue = str("Value of n: " + str(n) + "\n") # Puts the value of n into a string
+	print(nValue, end = ""); # Prints the value of n to console
+	file.write(nValue) # Writes the value of n to the text file
+
 	for i in range(n,0,-1): # Go from integer n to 1
 		x = i; # The current intermediate value
-		iteration = str("Iteration " + str(x) + ":")
+		iteration = str("x = " + str(x) + ":")
 
 		print(iteration, end = "") # Print the iteration number
 
@@ -30,4 +34,5 @@ def collatz(n):
 		file.write(iteration) # Write the numbers generated in the iteration to a text file
 	file.close()
 
-collatz(100)
+n = 100
+collatz(n) # Sample output with n = 100
