@@ -1,12 +1,3 @@
-'''
-Sort the given points into increasing order of x coordinate, and of y coordinate;
-Compute the bounding box of the complete set of points.
-In a binary-search style, divide the bounding rectangle by a vertical line so that one or other of the 'halves' has many points per unit area.
-Now, using that rectangle as the new bounding box, divide it using a horizontal line so that one of the halves has many points per unit area.
-Continue in this way alternating horizontal and vertical separations, stopping when neither of the subrectangles is better than its parent.
-Return the fullest subrectangle, i.e. the coordinates for its corners.
-'''
-
 import csv
 
 points_file = "points.csv"
@@ -130,13 +121,8 @@ loadPoints(pointsIncY) # Load points from csv file
 
 quickSort(pointsIncX, 0) # Sort the points by increasing x value
 quickSort(pointsIncY, 1) # Sort the points by increasing y value
-'''
-# Bounding box for x
+
 bb = BoundingBox(pointsIncX[0][0], pointsIncY[0][1], pointsIncX[len(pointsIncX) - 1][0], pointsIncY[len(pointsIncY) - 1][1], pointsIncX)
 
 coord = bb.fullestSubRectangle() 
 print(coord)
-'''
-print(pointsIncX[0][0], pointsIncX[299][0])
-
-print(pointsIncY[0][1], pointsIncY[299][1])
